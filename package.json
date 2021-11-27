@@ -10,7 +10,14 @@
     "2": "node --loader ts-node/esm ./002.ts",
     "3": "node --loader ts-node/esm ./003.ts",
     "4": "node --loader ts-node/esm ./004.ts",
-    "5": "node --loader ts-node/esm ./005.ts"
+    "5": "node --loader ts-node/esm ./005.ts",
+    "6": "node --loader ts-node/esm ./006.ts",
+    "7": "node --loader ts-node/esm ./007.ts",
+    "8": "node --loader ts-node/esm ./008.ts",
+    "9": "node --loader ts-node/esm ./009.ts",
+    "10": "node --loader ts-node/esm ./010.ts",
+    "11": "node --loader ts-node/esm ./011.ts"
+
   },
   "repository": {
     "type": "git",
