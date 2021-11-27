@@ -1,0 +1,34 @@
+{
+  "name": "2021",
+  "version": "1.0.0",
+  "description": "see 000 for pattern will use for each day's challenge",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "0": "node --loader ts-node/esm ./000.ts",
+    "1": "node --loader ts-node/esm ./001.ts",
+    "2": "node --loader ts-node/esm ./002.ts",
+    "3": "node --loader ts-node/esm ./003.ts",
+    "4": "node --loader ts-node/esm ./004.ts",
+    "5": "node --loader ts-node/esm ./005.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slimeyselim/AOC2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slimeyselim/AOC2021/issues"
+  },
+  "homepage": "https://github.com/slimeyselim/AOC2021#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.177"
+  }
+}
